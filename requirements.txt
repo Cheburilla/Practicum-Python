@@ -1,7 +1,0 @@
-notebook
-scikit-learn
-pandas
-matplotlib
-seaborn
-tensorflow
-ipykernel
