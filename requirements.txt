@@ -6,3 +6,4 @@ seaborn
 tensorflow
 ipykernel
 catboost
+streamlit
